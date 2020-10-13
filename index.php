@@ -1,5 +1,6 @@
 <!-- Editted by Vealtex, please leave the credits from Vealtex-->
 <!-- https://github.com/vealtex/MCWebsite -->
+<!-- Looking for cheap games? Take a look at https://vealtex.com-->
 
 <!-- Note: I edited this. So I did not make this 100% myself. Thanks for your understanding. -->
 

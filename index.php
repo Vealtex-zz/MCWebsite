@@ -13,12 +13,14 @@
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="css/stylesheet.css">
 	<script src="js/mc-player-counter.min.js"></script>
+</head>
 <body>
 	<div class="container">
 		<div class="logo">
 			<!-- If you have the CMS put your logo in the /img folder. -->
 			<!-- Call it 'logo.png'! -->
 			<img src="img/logo.png" alt="vealtex.com">
+		</div>
 
 		<div class="playercount">
 			<!-- Change play.yourserver.net with your own ip! -->
